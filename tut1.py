@@ -1,4 +1,4 @@
-#creating a calculator which takes 2 numbers from user and returs the output after performing calculations
+#creating a calculator which takes 2 numbers from user and returns the output after performing calculations
 
 print("Welcome to Mycalc")
 print("To Add no1 and no2 press 1 ")
